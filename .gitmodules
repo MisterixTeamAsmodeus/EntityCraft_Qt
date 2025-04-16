@@ -1,3 +1,7 @@
 [submodule "include/external/EntityCraft"]
 	path = include/external/EntityCraft
 	url = https://github.com/MisterixTeamAsmodeus/EntityCraft.git
+
+[submodule "include/external/ReflectionApi_Qt"]
+	path = include/external/ReflectionApi_Qt
+	url = https://github.com/MisterixTeamAsmodeus/ReflectionApi_Qt.git
