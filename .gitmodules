@@ -1,0 +1,3 @@
+[submodule "include/external/EntityCraft"]
+	path = include/external/EntityCraft
+	url = https://github.com/MisterixTeamAsmodeus/EntityCraft.git
