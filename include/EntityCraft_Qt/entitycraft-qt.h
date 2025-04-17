@@ -4,3 +4,4 @@
 #include "converter/relationinserter.h"
 
 #include <EntityCraft/entitycraft.h>
+#include <ReflectionApi_Qt/reflectionapi-qt.h>
